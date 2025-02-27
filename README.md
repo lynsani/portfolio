@@ -1,15 +1,18 @@
-# Data Analyst Portfolio  
+# Welcome to My **Data Portfolio**!  
 
-Welcome to my **Data Analyst Portfolio**! This repository showcases my projects and skills in data analysis, including data cleaning, visualization, statistical analysis, and more. Each project demonstrates my ability to extract insights from data and provide actionable recommendations.  
+This repository serves as a showcase of my projects and skills in **data analysis**, **data science**, and other data-related roles. Here, you'll find examples of my work in data cleaning, visualization, statistical analysis, machine learning, and more. Each project demonstrates my ability to extract meaningful insights from data and provide actionable recommendations to solve real-world problems.  
+
+This portfolio is designed to give you a clear picture of my capabilities and passion for data.  
 
 ---
 
 ## 🛠️ Skills and Tools  
 - **Programming Languages**: Python, SQL  
-- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, BeautifulSoup, Scrapy  
-- **Data Visualization**: Tableau 
-- **Database Management**: PostgreSQL  
-- **Other Tools**: Jupyter Notebook, Git, Excel/Google Sheet  
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, BeautifulSoup, Scrapy  
+- **Data Visualization**: Tableau, Looker Studio, Plotly  
+- **Database Management**: MySQL, PostgreSQL  
+- **Machine Learning**: Regression, Classification, Clustering, Natural Language Processing (NLP)  
+- **Other Tools**: Jupyter Notebook, Git, Excel, Google Sheets  
 
 ---
 
