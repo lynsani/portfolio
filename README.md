@@ -22,7 +22,7 @@ Welcome to my **Data Analyst Portfolio**! This repository showcases my projects 
   - Q4 consistently drives the highest sales.  
   - Technology products have the highest sales but fewer orders.  
 - **Tools**: Python, Pandas, Matplotlib, Seaborn  
-- **Link**: https://github.com/lynsani/data-analyst-portfolio/tree/9bf95d7f5664b2d95b120b0b17f9ea77701999e3/Project%201%20(Python)
+- **Link**: [Project 1 (Python)] (https://github.com/lynsani/data-analyst-portfolio/tree/9bf95d7f5664b2d95b120b0b17f9ea77701999e3/Project%201%20(Python))
 
   ### 2. **Upcoming Projects**  
 - **SQL for Data Analysis**: Analyzing relational databases to extract insights and optimize queries.  
@@ -33,6 +33,7 @@ Welcome to my **Data Analyst Portfolio**! This repository showcases my projects 
 ---
 
 🔗 Links
+
 LinkedIn: www.linkedin.com/in/lynsani
 
 Email: illiyinnurulinsani@gmail.com
